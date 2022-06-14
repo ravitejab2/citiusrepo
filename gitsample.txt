@@ -1,0 +1,5 @@
+hello
+Welcome to GitHub
+This is a Sample text file
+The name of the project is CitiusRepo
+This is Git learning session
